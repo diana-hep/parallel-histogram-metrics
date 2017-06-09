@@ -95,4 +95,28 @@ extern "C" {
 
     return (1000L * 1000L * (endTime.tv_sec - startTime.tv_sec) + (endTime.tv_usec - startTime.tv_usec)) / 1000.0 / 1000.0;
   }
+
+  double atomic(long *fillme, long size, long trials, long cardinality, long *collisions) {
+    struct timeval startTime, endTime;
+
+    int shift = (int)floor(log2((double)size / cardinality));
+
+    std::atomic<long>* fillme2 = reinterpret_cast<std::atomic<long>*>(fillme);
+
+    std::mt19937 rng;
+    rng.seed(std::random_device()());
+    std::uniform_int_distribution<long> distribution(0, cardinality - 1);
+
+    gettimeofday(&startTime, 0);
+    for (long i = 0;  i < trials;  i++) {
+      long value = distribution(rng) << shift;
+
+      // BEGIN use atomics to safely increment
+      fillme2[value].fetch_add(1, std::memory_order_relaxed);
+      // END use atomics to safely increment
+    }
+    gettimeofday(&endTime, 0);
+
+    return (1000L * 1000L * (endTime.tv_sec - startTime.tv_sec) + (endTime.tv_usec - startTime.tv_usec)) / 1000.0 / 1000.0;
+  }
 }
