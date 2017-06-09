@@ -57,7 +57,7 @@ Because it's easier to set up the conditions of the test. Measurements of wall t
    2. **Threads are pinned to CPUs.** Of course you can do that with `numactl`, but `psutil` makes it easy to do on a per-thread basis, sripted within one process. This test must be single-process to share a memory buffer (though it could have been done with forking...).
    3. **Experimental conditions, particularly test and control, are random-ordered.** Things like making permutations are one-liners in Python.
 
-Of course all of this can be done in C++, but I found it more expedient to do it in Python. The burden it added was having to load the functions in `ctypes` and set their signatures, since it can't read .h files.
+Of course all of this can be done in C++, but I found it more expedient to do it in Python. The burden this added was having to load the functions in `ctypes` and set their signatures, since Python can't read the .h files.
 
 ### Why am I using `gettimeofday` to measure time?
 
@@ -66,3 +66,7 @@ Because it's wall time, unlike `std::clock()`.
 ### Why am I making smooth lines by measuring every number of threads, rather than skipping by powers of two?
 
 Because I didn't mind waiting and it demonstrates just how stable the measurements are.
+
+### Why are there zeros in the last column of output?
+
+Because collision probability can only be measured in the CAS case. For the others, it's filled in as zero.
