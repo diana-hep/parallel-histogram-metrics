@@ -1,0 +1,775 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="668.76917"
+   height="481.32013"
+   viewBox="0 0 668.76917 481.32013"
+   id="svg3171"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="overlay.svg"
+   inkscape:export-filename="/home/pivarski/tmp/daq_fill_with_cas/overlay.png"
+   inkscape:export-xdpi="112.19"
+   inkscape:export-ydpi="112.19">
+  <metadata
+     id="metadata3363">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Gnuplot</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3361" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1914"
+     inkscape:window-height="1027"
+     id="namedview3359"
+     showgrid="false"
+     inkscape:object-nodes="true"
+     fit-margin-top="10"
+     fit-margin-left="10"
+     fit-margin-right="10"
+     fit-margin-bottom="10"
+     inkscape:zoom="1.3906433"
+     inkscape:cx="392.9501"
+     inkscape:cy="246.74899"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="gnuplot_canvas" />
+  <title
+     id="title3173">Gnuplot</title>
+  <desc
+     id="desc3175">Produced by GNUPLOT 4.6 patchlevel 4 </desc>
+  <g
+     id="gnuplot_canvas"
+     transform="translate(3.2691406,-0.72636719)">
+    <rect
+       x="0"
+       y="0"
+       width="600"
+       height="480"
+       id="rect3178"
+       style="fill:none" />
+    <defs
+       id="defs3180">
+      <circle
+         id="gpDot"
+         r="0.5"
+         cx="0"
+         cy="0"
+         sodipodi:cx="0"
+         sodipodi:cy="0"
+         sodipodi:rx="0.5"
+         sodipodi:ry="0.5"
+         style="stroke-width:0.5" />
+      <path
+         id="gpPt0"
+         d="M -1,0 H 1 M 0,-1 v 2"
+         inkscape:connector-curvature="0"
+         style="stroke:currentColor;stroke-width:0.222" />
+      <path
+         id="gpPt1"
+         d="M -1,-1 1,1 M 1,-1 -1,1"
+         inkscape:connector-curvature="0"
+         style="stroke:currentColor;stroke-width:0.222" />
+      <path
+         id="gpPt2"
+         d="M -1,0 1,0 M 0,-1 0,1 m -1,-2 2,2 m -2,0 2,-2"
+         inkscape:connector-curvature="0"
+         style="stroke:currentColor;stroke-width:0.222" />
+      <rect
+         id="gpPt3"
+         x="-1"
+         y="-1"
+         width="2"
+         height="2"
+         style="stroke:currentColor;stroke-width:0.222" />
+      <rect
+         id="gpPt4"
+         x="-1"
+         y="-1"
+         width="2"
+         height="2"
+         style="fill:currentColor;stroke:currentColor;stroke-width:0.222" />
+      <circle
+         id="gpPt5"
+         cx="0"
+         cy="0"
+         r="1"
+         sodipodi:cx="0"
+         sodipodi:cy="0"
+         sodipodi:rx="1"
+         sodipodi:ry="1"
+         style="stroke:currentColor;stroke-width:0.222" />
+      <use
+         xlink:href="#gpPt5"
+         id="gpPt6"
+         style="fill:currentColor;stroke:none"
+         x="0"
+         y="0"
+         width="600"
+         height="480" />
+      <path
+         id="gpPt7"
+         d="m 0,-1.33 -1.33,2 2.66,0 z"
+         inkscape:connector-curvature="0"
+         style="stroke:currentColor;stroke-width:0.222" />
+      <use
+         xlink:href="#gpPt7"
+         id="gpPt8"
+         style="fill:currentColor;stroke:none"
+         x="0"
+         y="0"
+         width="600"
+         height="480" />
+      <use
+         xlink:href="#gpPt7"
+         id="gpPt9"
+         transform="scale(-1,-1)"
+         style="stroke:currentColor"
+         x="0"
+         y="0"
+         width="600"
+         height="480" />
+      <use
+         xlink:href="#gpPt9"
+         id="gpPt10"
+         style="fill:currentColor;stroke:none"
+         x="0"
+         y="0"
+         width="600"
+         height="480" />
+      <use
+         xlink:href="#gpPt3"
+         id="gpPt11"
+         transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,0,0)"
+         style="stroke:currentColor"
+         x="0"
+         y="0"
+         width="600"
+         height="480" />
+      <use
+         xlink:href="#gpPt11"
+         id="gpPt12"
+         style="fill:currentColor;stroke:none"
+         x="0"
+         y="0"
+         width="600"
+         height="480" />
+    </defs>
+    <g
+       style="color:#ffffff;fill:none;stroke:currentColor;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+       id="g3196" />
+    <g
+       style="color:#000000;fill:none;stroke:currentColor;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+       id="g3198">
+      <path
+         d="m 71.9,422.4 9,0 m 494.1,0 -9,0 h 0.01"
+         id="path3200"
+         inkscape:connector-curvature="0"
+         style="stroke:#000000" />
+      <g
+         transform="translate(63.6,426.9)"
+         style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:Arial"
+         id="g3202">
+        <text
+           id="text3204">0</text>
+      </g>
+      <path
+         d="m 71.9,377.3 9,0 m 574.1,0 -9,0 0.01,0"
+         id="path3206"
+         inkscape:connector-curvature="0"
+         style="stroke:#000000"
+         sodipodi:nodetypes="ccccc" />
+      <g
+         transform="translate(63.6,381.8)"
+         style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:Arial"
+         id="g3208">
+        <text
+           id="text3210">50</text>
+      </g>
+      <path
+         d="m 71.9,332.2 9,0 m 574.1,0 -9,0 0.01,0"
+         id="path3212"
+         inkscape:connector-curvature="0"
+         style="stroke:#000000"
+         sodipodi:nodetypes="ccccc" />
+      <g
+         transform="translate(63.6,336.7)"
+         style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:Arial"
+         id="g3214">
+        <text
+           id="text3216">100</text>
+      </g>
+      <path
+         d="m 71.9,287.2 9,0 m 574.1,0 -9,0 0.01,0"
+         id="path3218"
+         inkscape:connector-curvature="0"
+         style="stroke:#000000"
+         sodipodi:nodetypes="ccccc" />
+      <g
+         transform="translate(63.6,291.7)"
+         style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:Arial"
+         id="g3220">
+        <text
+           id="text3222">150</text>
+      </g>
+      <path
+         d="m 71.9,242.1 9,0 m 574.1,0 -9,0 0.01,0"
+         id="path3224"
+         inkscape:connector-curvature="0"
+         style="stroke:#000000"
+         sodipodi:nodetypes="ccccc" />
+      <g
+         transform="translate(63.6,246.6)"
+         style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:Arial"
+         id="g3226">
+        <text
+           id="text3228">200</text>
+      </g>
+      <path
+         d="m 71.9,197 9,0 m 574.1,0 -9,0 0.01,0"
+         id="path3230"
+         inkscape:connector-curvature="0"
+         style="stroke:#000000"
+         sodipodi:nodetypes="ccccc" />
+      <g
+         transform="translate(63.6,201.5)"
+         style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:Arial"
+         id="g3232">
+        <text
+           id="text3234">250</text>
+      </g>
+      <path
+         d="m 71.9,151.9 9,0 m 574.1,0 -9,0 0.01,0"
+         id="path3236"
+         inkscape:connector-curvature="0"
+         style="stroke:#000000"
+         sodipodi:nodetypes="ccccc" />
+      <g
+         transform="translate(63.6,156.4)"
+         style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:Arial"
+         id="g3238">
+        <text
+           id="text3240">300</text>
+      </g>
+      <path
+         d="m 71.9,106.9 9,0 m 574.1,0 -9,0 0.01,0"
+         id="path3242"
+         inkscape:connector-curvature="0"
+         style="stroke:#000000"
+         sodipodi:nodetypes="ccccc" />
+      <g
+         transform="translate(63.6,111.4)"
+         style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:Arial"
+         id="g3244">
+        <text
+           id="text3246">350</text>
+      </g>
+      <path
+         d="m 71.9,61.8 9,0 m 574.1,0 -9,0 0.01,0"
+         id="path3248"
+         inkscape:connector-curvature="0"
+         style="stroke:#000000"
+         sodipodi:nodetypes="ccccc" />
+      <g
+         transform="translate(63.6,66.3)"
+         style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:Arial"
+         id="g3250">
+        <text
+           id="text3252">400</text>
+      </g>
+      <path
+         d="m 71.9,16.7 9,0 m 494.1,0 -9,0 h 0.01"
+         id="path3254"
+         inkscape:connector-curvature="0"
+         style="stroke:#000000" />
+      <g
+         transform="translate(63.6,21.2)"
+         style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:Arial"
+         id="g3256">
+        <text
+           id="text3258">450</text>
+      </g>
+      <path
+         d="m 147.2,422.4 0,-9 m 0,-396.7 0,9 h 0.01"
+         id="path3260"
+         inkscape:connector-curvature="0"
+         style="stroke:#000000" />
+      <g
+         transform="translate(147.2,444.9)"
+         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:Arial"
+         id="g3262">
+        <text
+           id="text3264">20</text>
+      </g>
+      <path
+         d="m 226.4,422.4 0,-9 m 0,-396.7 0,9 h 0.01"
+         id="path3266"
+         inkscape:connector-curvature="0"
+         style="stroke:#000000" />
+      <g
+         transform="translate(226.4,444.9)"
+         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:Arial"
+         id="g3268">
+        <text
+           id="text3270">40</text>
+      </g>
+      <path
+         d="m 305.6,422.4 0,-9 m 0,-396.7 0,9 h 0.01"
+         id="path3272"
+         inkscape:connector-curvature="0"
+         style="stroke:#000000" />
+      <g
+         transform="translate(305.6,444.9)"
+         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:Arial"
+         id="g3274">
+        <text
+           id="text3276">60</text>
+      </g>
+      <path
+         d="m 384.9,422.4 0,-9 m 0,-396.7 0,9 h 0.01"
+         id="path3278"
+         inkscape:connector-curvature="0"
+         style="stroke:#000000" />
+      <g
+         transform="translate(384.9,444.9)"
+         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:Arial"
+         id="g3280">
+        <text
+           id="text3282">80</text>
+      </g>
+      <path
+         d="m 464.1,422.4 0,-9 m 0,-396.7 0,9 h 0.01"
+         id="path3284"
+         inkscape:connector-curvature="0"
+         style="stroke:#000000" />
+      <g
+         transform="translate(464.1,444.9)"
+         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:Arial"
+         id="g3286">
+        <text
+           id="text3288">100</text>
+      </g>
+      <path
+         d="m 543.3,422.4 0,-9 m 0,-396.7 0,9 h 0.01"
+         id="path3290"
+         inkscape:connector-curvature="0"
+         style="stroke:#000000" />
+      <g
+         transform="translate(543.3,444.9)"
+         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:Arial"
+         id="g3292">
+        <text
+           id="text3294">120</text>
+      </g>
+      <path
+         d="m 71.9,16.7 0,405.7 583.1,0 0,-405.7 z m 0,0 0.01,0"
+         id="path3296"
+         inkscape:connector-curvature="0"
+         style="stroke:#000000"
+         sodipodi:nodetypes="ccccccc" />
+      <g
+         transform="matrix(0,-1,1,0,17.6,219.6)"
+         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:Arial"
+         id="g3298">
+        <text
+           id="text3300">histogram filling rate (MHz)</text>
+      </g>
+      <g
+         transform="translate(323.4,471.9)"
+         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:Arial"
+         id="g3302">
+        <text
+           id="text3304">number of threads</text>
+      </g>
+    </g>
+    <g
+       id="gnuplot_plot_1">
+      <title
+         id="title3307">gnuplot_plot_1</title>
+      <g
+         style="color:#ff0000;fill:none;stroke:currentColor;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+         id="g3309">
+        <path
+           d="m 71.9,418.9 5.1,-4.5 5.1,-4.6 5,-4.5 5.1,-4.5 5.1,-4.5 5.1,-4.5 5.1,-4.5 5.1,-4.6 5,-4.5 5.1,-4.5 5.1,-4.5 5.1,-4.5 5.1,-4.6 5,-4.5 5.1,-4.5 5.1,-4.5 5.1,-4.5 5.1,-4.5 5.1,-4.6 5,-4.5 5.1,-4.5 5.1,-4.5 5.1,-4.5 5.1,-4.5 5,-4.6 5.1,-4.5 5.1,-4.5 5.1,-4.5 5.1,-4.5 5.1,-4.6 5,-4.5 5.1,-4.5 5.1,-4.5 5.1,-4.5 5.1,-4.5 5,-4.6 5.1,-4.5 5.1,-4.5 5.1,-4.5 5.1,-4.5 5.1,-4.5 5,-4.6 5.1,-4.5 5.1,-4.5 5.1,-4.5 5.1,-4.5 5,-4.6 5.1,-4.5 5.1,-4.5 5.1,-4.5 5.1,-4.5 5.1,-4.5 5,-4.6 5.1,-4.5 5.1,-4.5 5.1,-4.5 5.1,-4.5 5,-4.6 5.1,-4.5 5.1,-4.5 5.1,-4.5 5.1,-4.5 5.1,-4.5 5,-4.6 5.1,-4.5 5.1,-4.5 5.1,-4.5 5.1,-4.5 5,-4.5 5.1,-4.6 5.1,-4.5 5.1,-4.5 5.1,-4.5 5.1,-4.5 5,-4.6 5.1,-4.5 5.1,-4.5 5.1,-4.5 5.1,-4.5 5,-4.5 5.1,-4.6 5.1,-4.5 5.1,-4.5 5.1,-4.5 5.1,-4.5 5,-4.5 5.1,-4.6 5.1,-4.5 5.1,-4.5 0.1,-0.1 h 0.01"
+           id="path3311"
+           style="stroke:#888888;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1, 1;stroke-dashoffset:0"
+           inkscape:connector-curvature="0" />
+        <g
+           transform="translate(0.01,0)"
+           style="color:#008000;fill:none;stroke:currentColor;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4, 4;stroke-dashoffset:0"
+           id="g147">
+          <path
+             inkscape:connector-curvature="0"
+             d="m 71.9,419.1 4,-3 31.7,-24.8 23.7,-17.5 7.9,-5.2 8,-6.7 23.7,-15.3 8,-6 27.7,-18.4 11.9,-8 35.6,-24.9 23.8,-15.7 11.9,-7.5 15.8,-10.4 7.9,-5.8 11.9,-6.1 15.9,-9.6 27.7,-16.6 11.9,-5.7 19.8,-11 4,-1.7 27.7,-16 7.9,-5.1 15.9,-8.7 7.9,-4.1 7.9,-3.6 7.9,-3.8 19.8,-10.3 15.9,-7.8 19.8,-8.4 3.9,-1.7 11.9,-6.3 4,-1.1 11.9,-4.8 h 0.01"
+             id="path149"
+             style="stroke:#9a2e00;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:4, 4;stroke-dashoffset:0" />
+        </g>
+        <g
+           transform="translate(0.01,0)"
+           id="gnuplot_plot_3-6"
+           style="stroke-width:1;stroke-miterlimit:4;stroke-dasharray:4, 4;stroke-dashoffset:0">
+          <title
+             id="title152">gnuplot_plot_3</title>
+          <g
+             style="color:#0000ff;fill:none;stroke:currentColor;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4, 4;stroke-dashoffset:0"
+             id="g154">
+            <path
+               inkscape:connector-curvature="0"
+               d="m 71.9,419.2 43.6,-32.1 7.9,-5.9 7.9,-6.3 7.9,-6.2 15.9,-12.4 11.9,-8.7 3.9,-3.1 11.9,-8.8 31.7,-19.9 4,-1.9 7.9,-5.6 4,-2.1 11.8,-8.1 8,-5.6 23.7,-12.3 8,-5.3 11.8,-7.5 8,-5.6 15.8,-7.9 11.9,-6.1 51.5,-27 15.8,-7.1 15.9,-7.7 19.8,-8.5 27.7,-12 23.8,-9.1 15.8,-5.8 8,-3.4 7.9,-2.9 11.9,-3.6 3.9,-1.5 7.9,-3.4 8,-2.5 15.8,-4.2 h 0.01"
+               id="path156"
+               style="stroke:#006089;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:4, 4;stroke-dashoffset:0" />
+          </g>
+        </g>
+        <g
+           transform="translate(0.01,0)"
+           id="gnuplot_plot_4-7"
+           style="stroke-width:1;stroke-miterlimit:4;stroke-dasharray:4, 4;stroke-dashoffset:0">
+          <title
+             id="title159">gnuplot_plot_4</title>
+          <g
+             style="color:#00ffff;fill:none;stroke:currentColor;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4, 4;stroke-dashoffset:0"
+             id="g161">
+            <path
+               inkscape:connector-curvature="0"
+               d="m 75.9,416 3.9,-3.1 15.9,-11.2 27.7,-21.1 4,-3.6 3.9,-2.9 7.9,-5.7 4,-3.3 7.9,-6.1 8,-5.7 3.9,-3 7.9,-5.8 4,-2.7 11.9,-7.5 3.9,-2.9 43.6,-27.1 11.9,-7 11.9,-6.6 3.9,-1.6 11.9,-6 4,-2.3 31.7,-16.8 11.9,-5.4 23.7,-9.5 4,-1.5 27.7,-11.4 8,-3.1 7.9,2.4 3.9,-6.5 8,-3.2 3.9,-1.5 7.9,-2.8 15.9,-4.3 27.7,-7.4 19.8,-4.7 7.9,-1.8 11.9,-2.2 8,-1.6 3.9,-0.3 11.9,-1.9 4,-0.6 3.9,-0.3 23.8,-2.8 4,-0.1 3.9,-0.1 11.9,-1.1 h 0.01"
+               id="path163"
+               style="stroke:#507200;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:4, 4;stroke-dashoffset:0" />
+          </g>
+        </g>
+        <g
+           transform="translate(0.01,0)"
+           id="gnuplot_plot_5-5"
+           style="stroke-width:1;stroke-miterlimit:4;stroke-dasharray:4, 4;stroke-dashoffset:0">
+          <title
+             id="title166">gnuplot_plot_5</title>
+          <g
+             style="color:#157545;fill:none;stroke:currentColor;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4, 4;stroke-dashoffset:0"
+             id="g168">
+            <path
+               inkscape:connector-curvature="0"
+               d="m 71.9,419.1 4,-3.1 3.9,-3 4,-3.2 3.9,-3 4,-3 4,-3.1 3.9,-3 4,-3.2 4,-3 3.9,-2.8 4,-3.4 3.9,-2.7 4,-2.8 4,-1.9 3.9,-1.6 4,-3 3.9,-3.1 4,-1.9 4,-3 3.9,-2.5 4,-2.6 4,-2.7 3.9,-2.9 4,-2.5 3.9,-2.6 4,-2.3 4,-2.5 3.9,-2.1 4,-2.8 3.9,-2.2 4,-1.4 4,-1.8 3.9,-2.1 4,-1.4 3.9,-2.3 4,-2.2 4,-1.7 3.9,-2.2 4,-1.9 4,-1.7 3.9,-1.5 4,-1.7 3.9,-1.5 4,-1.9 4,0.7 3.9,-3.2 4,-1.3 3.9,-0.9 4,-1.8 4,-0.9 3.9,-1 4,-1.3 4,-1 3.9,-0.8 4,-1.1 3.9,-0.9 4,-0.7 4,-0.7 3.9,-0.9 4,-0.5 3.9,-0.7 4,-0.5 4,-0.7 3.9,-0.6 4,-0.4 4,-0.5 3.9,-0.3 4,-0.7 3.9,-0.4 4,-0.3 4,-0.5 3.9,-0.1 4,-0.5 3.9,-0.3 4,-0.2 4,-0.2 3.9,-0.2 4,-0.3 4,-0.1 3.9,-0.2 4,-0.2 3.9,-0.2 4,-0.2 4,-0.1 3.9,0 4,-0.6 3.9,0.4 4,-0.3 4,0.1 3.9,-0.5 4,0.1 4,0.1 3.9,0.1 4,0.1 3.9,-0.3 4,0.1 4,-0.1 3.9,0.2 4,-0.1 3.9,0.3 4,0.3 4,-0.5 3.9,-0.2 4,0.3 3.9,0.1 4,0 4,-0.2 3.9,0.2 4,0 4,0.1 3.9,0 4,0 3.9,0 4,-0.1 4,0.4 3.9,-0.1 4,-0.2 3.9,0.4 4,-0.1 4,0.1 3.9,0 4,-0.1 4,0.4 3.9,0.1 4,0.1 3.9,-0.4 4,0.1 h 0.01"
+               id="path170"
+               style="stroke:#4300e1;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:4, 4;stroke-dashoffset:0" />
+          </g>
+        </g>
+        <g
+           transform="translate(0.01,0)"
+           id="gnuplot_plot_6-3"
+           style="stroke-width:1;stroke-miterlimit:4;stroke-dasharray:4, 4;stroke-dashoffset:0">
+          <title
+             id="title173">gnuplot_plot_6</title>
+          <g
+             style="color:#000094;fill:none;stroke:currentColor;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4, 4;stroke-dashoffset:0"
+             id="g175">
+            <path
+               inkscape:connector-curvature="0"
+               d="m 71.9,419 4,-3 3.9,-3.1 4,-3.1 3.9,-3.1 4,-3.2 4,-2.9 3.9,-2.8 4,-1.8 4,-3 3.9,-2.6 4,-2.7 3.9,-2.8 4,-2.6 4,-2.4 3.9,-2.5 4,-1.7 3.9,-2.1 4,-2 4,-2.1 3.9,-2 4,-1.7 4,-1.6 3.9,-1.5 4,-1.3 3.9,-1.1 4,-1.2 4,-1.1 3.9,-1 4,-0.7 3.9,-0.7 4,-0.6 4,0.1 3.9,-0.1 4,-0.4 3.9,-0.4 4,-1.3 4,-0.5 3.9,-0.4 4,-0.3 4,-0.3 3.9,-0.2 4,-0.3 3.9,-0.3 4,0 4,-0.4 3.9,-0.3 4,-0.2 3.9,-0.1 4,-0.2 4,-0.1 3.9,-0.1 4,-0.1 4,-0.2 3.9,0 4,0 3.9,-0.2 4,0 4,-0.1 3.9,0 4,0.5 3.9,0.3 4,0.2 4,-0.1 3.9,1.1 4,-1.1 4,0 3.9,-0.3 4,-0.8 3.9,0.1 4,-0.3 4,-0.1 3.9,0 4,0.5 3.9,0.3 4,-0.4 4,-0.4 3.9,0 4,-0.1 4,0.1 3.9,0 4,0 3.9,0 4,0 4,0.1 3.9,-0.2 4,0.3 3.9,-0.2 4,0.1 4,-0.1 3.9,0.2 4,0.1 4,-0.2 3.9,0.1 4,-0.1 3.9,0.1 4,0 4,0 3.9,0.3 4,0.2 3.9,0.1 4,0.4 4,0 3.9,-0.5 4,0.6 3.9,-0.8 4,1.3 4,-1.3 3.9,0 4,0.1 4,-0.2 3.9,0.3 4,-0.2 3.9,0.3 4,0 4,0 3.9,-0.1 4,-0.1 3.9,0.2 4,0 4,0 3.9,0 4,-0.1 4,0.1 3.9,0.1 4,0 3.9,0 4,0 h 0.01"
+               id="path177"
+               style="stroke:#007222;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:4, 4;stroke-dashoffset:0" />
+          </g>
+        </g>
+        <g
+           transform="translate(0.01,0)"
+           id="gnuplot_plot_7-5"
+           style="stroke-width:1;stroke-miterlimit:4;stroke-dasharray:4, 4;stroke-dashoffset:0">
+          <title
+             id="title180">gnuplot_plot_7</title>
+          <g
+             style="color:#ff9900;fill:none;stroke:currentColor;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4, 4;stroke-dashoffset:0"
+             id="g182">
+            <path
+               inkscape:connector-curvature="0"
+               d="m 71.9,419.2 4,-3.2 7.9,-5.9 15.8,-10.5 4,-2.1 4,-1.8 11.8,-4 15.9,-2.2 3.9,-0.9 4,-0.2 4,-0.4 3.9,-0.3 8,-0.4 3.9,-0.2 4,-0.1 3.9,0 11.9,-0.6 4,-0.1 11.9,-0.3 3.9,-0.1 19.8,-0.3 4,-0.1 4,-0.1 7.9,0 3.9,0 8,-0.1 3.9,0 15.9,-0.1 7.9,-0.1 7.9,0 15.9,0 3.9,-0.1 4,0 7.9,0 h 0.01"
+               id="path184"
+               style="stroke:#a20071;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:4, 4;stroke-dashoffset:0" />
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       id="gnuplot_plot_2">
+      <title
+         id="title3314">gnuplot_plot_2</title>
+      <g
+         style="color:#008000;fill:none;stroke:currentColor;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+         id="g3316">
+        <path
+           d="m 71.9,418.3 11.9,-11.6 7.9,-8.1 11.9,-11.3 19.8,-17.4 4,-4.2 11.8,-10.1 43.6,-37.4 7.9,-7.4 8,-5.6 11.8,-8.1 15.9,-11.5 11.9,-10 7.9,-7.3 4,-3.9 11.8,-9 23.8,-19.8 15.9,-13.4 7.9,-4.9 3.9,-3.8 35.7,-22.6 7.9,-5.8 7.9,-0.9 15.9,-12.6 4,-2.3 23.7,-15 4,-1.9 23.8,-15.6 3.9,-3.3 23.8,-13.7 47.5,-22.4 19.8,-10.3 7.9,-1.7 h 0.01"
+           id="path3318"
+           inkscape:connector-curvature="0"
+           style="stroke:#9a2e00" />
+      </g>
+    </g>
+    <g
+       id="gnuplot_plot_3">
+      <title
+         id="title3321">gnuplot_plot_3</title>
+      <g
+         style="color:#0000ff;fill:none;stroke:currentColor;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+         id="g3323">
+        <path
+           d="m 83.8,406.4 19.8,-17.2 4,-3.9 7.9,-6.1 11.9,-11.4 11.8,-11.4 4,-3.1 4,-4.5 55.4,-46.9 7.9,-5.2 4,-3.7 7.9,-5.7 11.9,-8.3 11.9,-10 35.7,-22.2 31.6,-21.2 15.9,-8.4 11.9,-7.7 11.9,-7.1 7.9,-4.1 3.9,0.4 15.9,-9.7 4,-1.7 27.7,-14 23.8,-10.2 3.9,-1.1 23.8,-10.6 11.9,-4.6 23.7,-7 4,0 4,-4 27.7,-6.1 3.9,-2 11.9,-2.7"
+           id="path3325"
+           inkscape:connector-curvature="0"
+           style="stroke:#006089"
+           sodipodi:nodetypes="cccccccccccccccccccccccccccccccccc" />
+        <text
+           xml:space="preserve"
+           style="font-size:32.64226532px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#006089;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
+           x="517.07825"
+           y="269.49667"
+           id="text4970"
+           sodipodi:linespacing="125%"
+           transform="matrix(0.97361053,-0.22821599,0.22821599,0.97361053,0,0)"><tspan
+             sodipodi:role="line"
+             id="tspan4972"
+             x="517.07825"
+             y="269.49667">}</tspan></text>
+      </g>
+    </g>
+    <g
+       id="gnuplot_plot_4">
+      <title
+         id="title3328">gnuplot_plot_4</title>
+      <g
+         style="color:#00ffff;fill:none;stroke:currentColor;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+         id="g3330">
+        <path
+           d="m 71.9,418.4 19.8,-17.2 4,-3.8 3.9,-4.3 4,-3.8 4,-3.5 7.9,-7.3 11.9,-11 7.9,-7.5 3.9,-3.7 4,-3.6 4,-3.8 3.9,-3.5 15.9,-14 11.9,-10.3 3.9,-1.7 4,-2.8 3.9,-3.3 4,-3.5 7.9,-6.4 7.9,-5.9 8,-3.5 15.8,-11.6 4,-2 15.8,-10 4,-2.7 11.9,-4.9 3.9,-2.7 15.9,-8.7 11.9,-7 3.9,-2.4 15.9,-6.7 3.9,-1.2 4,-1.9 7.9,-2.7 4,-1.1 3.9,-1.2 15.9,-6.4 3.9,-1.8 15.9,-5.2 4,-1.2 3.9,-1.6 4,-1.4 7.9,-2.7 4,-1.5 3.9,-0.7 4,-1.6 7.9,-2.7 4,0 3.9,-0.5 4,-1.5 15.8,-3.1 4,-0.3 4,-0.5 7.9,-1.6 11.9,-1.3 3.9,-1.1 11.9,-1.8 19.8,-0.4 7.9,-0.8 8,-0.5 3.9,0.4 7.9,0 31.7,-0.4"
+           id="path3332"
+           inkscape:connector-curvature="0"
+           style="stroke:#507200"
+           sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+      </g>
+    </g>
+    <g
+       id="gnuplot_plot_5">
+      <title
+         id="title3335">gnuplot_plot_5</title>
+      <g
+         style="color:#157545;fill:none;stroke:currentColor;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+         id="g3337">
+        <path
+           d="m 71.9,418.5 4,-3.8 3.9,-4 4,-3.5 3.9,-4.1 4,-3.7 4,-3.5 3.9,-3.4 4,-3.7 4,-3.7 3.9,-4 4,-3.4 3.9,-2.8 4,-4 4,-1.4 3.9,-2.2 4,-3.2 3.9,-3.4 4,-1.9 4,-3.2 3.9,-3.3 4,-2.9 4,-3 3.9,-2.9 4,-2.7 3.9,-2.8 4,-2.6 4,-2.6 3.9,-2.1 4,-2.7 3.9,-2.7 4,-1.5 4,-1.5 3.9,-2.1 4,-1.3 3.9,-2.1 4,-2 4,-1.7 3.9,-2 4,-1.9 4,-1.3 3.9,-1.3 4,-1.4 3.9,-1.7 4,-1.3 4,-1 3.9,-0.9 4,-1.4 3.9,-0.7 4,-0.8 4,-0.9 3.9,-0.9 4,-0.8 4,-0.6 3.9,-0.9 4,-0.5 3.9,-0.9 4,0.1 4,-0.9 3.9,-0.4 4,-0.7 3.9,-0.6 4,-0.5 4,-0.4 3.9,-0.2 4,-0.4 4,-0.4 3.9,-0.4 4,-0.2 3.9,-0.1 4,-0.3 4,-0.5 3.9,0.1 4,-0.4 3.9,-0.1 4,-0.1 4,-0.3 3.9,-0.1 4,0.2 4,-0.2 3.9,-0.2 4,-0.4 3.9,0.2 4,0.1 4,0.2 3.9,-0.6 4,0 3.9,0.1 4,-0.1 4,-0.1 3.9,0.1 4,-0.2 4,0.1 3.9,-0.4 4,0.5 3.9,-0.1 4,0.2 4,0.2 3.9,-0.1 4,0 3.9,0.2 4,-0.3 4,0.3 3.9,0.3 4,-0.1 3.9,0.9 4,-1.2 4,0.5 3.9,0.4 4,-0.4 4,0.4 3.9,0.1 4,-0.2 3.9,0.3 4,0.1 4,-0.1 3.9,-0.2 4,0.4 3.9,-0.1 4,-0.4 4,0.8 3.9,-0.2 4,0.2 4,0.5 3.9,-0.4 4,-0.1 3.9,0.3 4,0.1 h 0.01"
+           id="path3339"
+           inkscape:connector-curvature="0"
+           style="stroke:#4300e1" />
+      </g>
+    </g>
+    <g
+       id="gnuplot_plot_6">
+      <title
+         id="title3342">gnuplot_plot_6</title>
+      <g
+         style="color:#000094;fill:none;stroke:currentColor;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+         id="g3344">
+        <path
+           d="m 71.9,418.5 4,-3.6 3.9,-3.8 4,-3.7 3.9,-3.3 4,-3.7 4,-3.5 3.9,-2.9 4,-2.1 4,-3.3 3.9,-2.7 4,-3.1 3.9,-3.2 4,-2.7 4,-2.3 3.9,-2.7 4,-1.2 3.9,-2.3 4,-2 4,-1.8 3.9,-1.7 4,-1.5 4,-1.4 3.9,-1.3 4,-0.3 3.9,-0.4 4,-0.8 4,-1.7 3.9,-0.8 4,-0.8 3.9,-0.5 4,-0.5 4,-0.4 3.9,-0.5 4,-0.4 3.9,-0.4 4,-0.4 4,-0.3 3.9,-0.3 4,-0.1 4,-0.4 3.9,-0.1 4,-0.3 3.9,-0.3 4,0 4,-0.1 3.9,0.4 4,0.1 3.9,-0.2 4,0.5 4,-0.9 3.9,-0.2 4,-0.9 4,0 3.9,-0.1 4,-0.1 3.9,0 4,-0.2 4,0 3.9,0 4,-0.2 3.9,-0.1 4,-0.1 4,0 3.9,0.1 4,0 4,0 3.9,0.1 4,0 3.9,0 4,-0.2 4,0.1 3.9,0 4,-0.2 3.9,0 4,1 4,-0.8 3.9,0 4,-0.1 4,0 3.9,0.5 4,-0.5 3.9,1.1 4,0.4 4,0.2 3.9,-0.1 4,-0.1 3.9,-0.2 4,0.4 4,1 3.9,-0.9 4,-0.6 4,0 3.9,-0.4 4,-0.1 3.9,0 4,-0.1 4,0.2 3.9,-0.1 4,0 3.9,0.2 4,0 4,-0.1 3.9,0.2 4,-0.1 3.9,0.1 4,0.5 4,0.2 3.9,-0.6 4,0.1 4,-0.2 3.9,0.2 4,0.1 3.9,0 4,-0.1 4,0 3.9,0.1 4,0.1 3.9,0.4 4,0.3 4,-0.1 3.9,0.6 4,0.1 4,0.2 3.9,-0.2 4,0.1 3.9,0.2 4,-0.1 h 0.01"
+           id="path3346"
+           inkscape:connector-curvature="0"
+           style="stroke:#007222" />
+      </g>
+    </g>
+    <g
+       id="gnuplot_plot_7">
+      <title
+         id="title3349">gnuplot_plot_7</title>
+      <g
+         style="color:#ff9900;fill:none;stroke:currentColor;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+         id="g3351">
+        <path
+           d="m 83.8,408.6 3.9,-3 4,-2.7 27.7,-11.8 4,-0.7 4,-0.9 11.8,-1.3 4,-0.3 4,-0.3 3.9,-0.3 19.8,-0.8 4,-0.2 4,-0.2 11.8,-0.3 4,-0.1 4,-0.2 3.9,0 4,-0.1 3.9,0 4,-0.1 4,-0.1 3.9,0 15.9,-0.3 31.7,-0.2 3.9,0 4,0 4,-0.1 3.9,0.1 4,-0.1 3.9,-0.1 4,0.1 11.9,-0.1 7.9,0.1 h 0.01"
+           id="path3353"
+           inkscape:connector-curvature="0"
+           style="stroke:#a20071" />
+      </g>
+    </g>
+    <g
+       style="color:#000000;fill:none;stroke:currentColor;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+       id="g3355">
+      <path
+         d="m 71.9,16.7 0,405.7 583.1,0 0,-258.08123 L 655,16.7 z m 0,0 0.01,0"
+         id="path3357"
+         inkscape:connector-curvature="0"
+         style="stroke:#000000"
+         sodipodi:nodetypes="cccccccc" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:48.04240036px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#9a2e00;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
+       x="497.19336"
+       y="289.05557"
+       id="text4966"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.94429049,-0.32911316,0.32911316,0.94429049,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan4968"
+         x="497.19336"
+         y="289.05557">}</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;color:#0000ff;fill:#9a2e00;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
+       x="576.81781"
+       y="98.882904"
+       id="text4974"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4976"
+         x="576.81781"
+         y="98.882904">≤ 3.7×10<tspan
+   style="font-size:9.10012817px;baseline-shift:super;fill:#9a2e00;fill-opacity:1"
+   id="tspan4978">−8</tspan></tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5035"
+       y="138.43294"
+       x="588.8764"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;color:#0000ff;fill:#006089;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
+       xml:space="preserve"><tspan
+         y="138.43294"
+         x="588.8764"
+         id="tspan5037"
+         sodipodi:role="line">8.8×10<tspan
+   id="tspan5039"
+   style="font-size:9.10012817px;baseline-shift:super;fill:#006089;fill-opacity:1">−8</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;color:#0000ff;fill:#507200;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
+       x="588.81268"
+       y="192.43294"
+       id="text5049"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5051"
+         x="588.81268"
+         y="192.43294">2.3×10<tspan
+   style="font-size:9.10012817px;baseline-shift:super;fill:#507200;fill-opacity:1"
+   id="tspan5053">−7</tspan></tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5055"
+       y="292.43295"
+       x="588.81268"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;color:#0000ff;fill:#4300e1;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
+       xml:space="preserve"><tspan
+         y="292.43295"
+         x="588.81268"
+         id="tspan5057"
+         sodipodi:role="line">6.5×10<tspan
+   id="tspan5059"
+   style="font-size:9.10012817px;baseline-shift:super;fill:#4300e1;fill-opacity:1">−7</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;color:#0000ff;fill:#007222;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
+       x="588.8764"
+       y="352.43295"
+       id="text5061"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5063"
+         x="588.8764"
+         y="352.43295">1.5×10<tspan
+   style="font-size:9.10012816999999963px;baseline-shift:super;fill:#007222;fill-opacity:1"
+   id="tspan5065">−6</tspan></tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5067"
+       y="390.43295"
+       x="576.81781"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;color:#0000ff;fill:#a20071;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
+       xml:space="preserve"><tspan
+         y="390.43295"
+         x="576.81781"
+         id="tspan5069"
+         sodipodi:role="line">≥ 3.1×10<tspan
+   id="tspan5071"
+   style="font-size:9.10012817px;baseline-shift:super;fill:#a20071;fill-opacity:1">−6</tspan></tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5073"
+       y="41.624706"
+       x="606.36115"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;color:#0000ff;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
+       xml:space="preserve"><tspan
+         y="41.624706"
+         x="606.36115"
+         sodipodi:role="line"
+         id="tspan5079">collision prob</tspan><tspan
+         y="59.124706"
+         x="606.36115"
+         sodipodi:role="line"
+         id="tspan5083">#threads</tspan></text>
+    <path
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 563.24948,45.521071 86.18644,0"
+       id="path5085"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
+       x="103.41708"
+       y="50.919926"
+       id="text5511"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5513"
+         x="103.41708"
+         y="50.919926"><tspan
+   style="font-weight:bold"
+   id="tspan5519">solid lines:</tspan> naive (<tspan
+   style="font-style:italic"
+   id="tspan5517">not</tspan> thread safe)</tspan><tspan
+         sodipodi:role="line"
+         x="103.41708"
+         y="68.568939"
+         id="tspan5515"><tspan
+   style="font-weight:bold"
+   id="tspan5521">dashed lines:</tspan> CAS (thread safe)</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5523"
+       y="309.67017"
+       x="386.79678"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;color:#0000ff;fill:#9a2e00;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
+       xml:space="preserve"
+       transform="matrix(0.89557512,-0.44491034,0.44491034,0.89557512,0,0)"><tspan
+         y="309.67017"
+         x="386.79678"
+         id="tspan5525"
+         sodipodi:role="line">(limiting)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;color:#0000ff;fill:#a20071;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
+       x="254.48181"
+       y="399.78116"
+       id="text5529"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5531"
+         x="254.48181"
+         y="399.78116">(limiting)</tspan></text>
+  </g>
+</svg>
