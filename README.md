@@ -12,6 +12,8 @@ This directory contains all of the code and results behind my June 1, 2017 talk 
 
 **Step 2:** copy over `randomfill.cpp` and `randomfill.py`, which are the only two files needed for the test.
 
+Numpy and psutil are also required as dependencies.
+
 **Step 3:** compile the C++ code into a shared library:
 
 ```
@@ -45,4 +47,22 @@ cardinality = size >> int(sys.argv[3])
 
 Results in `results_mcmillan-r1k1.princeton.edu` are labeled by command-line arguments and then sorted for plotting.
 
+## Some notes
 
+### Why is Python driving a C++ program, rather than doing it all in C++?
+
+Because it's easier to set up the conditions of the test. Measurements of wall times of parallel tasks are much more stable when:
+
+   1. **Equal-sized jobs are started at the same time.** If some tasks start before others, they'll get through their work more quickly than if they really started at the same time. Python's `Event` (called "startgun" in my script) makes it easy to start the relevant, timed (non-initialization) part of the task for all threads in parallel.
+   2. **Threads are pinned to CPUs.** Of course you can do that with `numactl`, but `psutil` makes it easy to do on a per-thread basis, sripted within one process. This test must be single-process to share a memory buffer (though it could have been done with forking...).
+   3. **Experimental conditions, particularly test and control, are random-ordered.** Things like making permutations are one-liners in Python.
+
+Of course all of this can be done in C++, but I found it more expedient to do it in Python. The burden it added was having to load the functions in `ctypes` and set their signatures, since it can't read .h files.
+
+### Why am I using `gettimeofday` to measure time?
+
+Because it's wall time, unlike `std::clock()`.
+
+### Why am I making smooth lines by measuring every number of threads, rather than skipping by powers of two?
+
+Because I didn't mind waiting and it demonstrates just how stable the measurements are.
